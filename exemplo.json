@@ -1,0 +1,9 @@
+{
+  "data": "2026-10-30",
+  "dias_uteis_restantes": 4,
+  "consultores": [
+    {"nome": "Ana", "vendas_dia": 1, "valor_dia": 18000, "valor_mes": 90000, "meta_mes": 100000, "orcamentos_dia": 4},
+    {"nome": "Bruno", "vendas_dia": 0, "valor_dia": 0, "valor_mes": 40000, "meta_mes": 80000, "orcamentos_dia": 2},
+    {"nome": "Carla", "vendas_dia": 2, "valor_dia": 25000, "valor_mes": 85000, "meta_mes": 80000}
+  ]
+}
